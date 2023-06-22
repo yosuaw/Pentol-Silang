@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PentolSilang_160419038</string>
+    <string name="image_title">Pentol Silang</string>
+    <string name="label_player1">Player 1 (O)</string>
+    <string name="label_player2">Player 2 (X)</string>
+    <string name="label_color">Player Color</string>
+    <string name="label_play">Play!</string>
+    <string name="player_1_name">Player 1 Name</string>
+    <string name="player_2_name">Player 2 Name</string>
+    <string name="label_turn">PLAYER TURN</string>
+    <string name="label_play_again">Play Again!</string>
+    <string name="label_history">History</string>
+    <string name="label_result">RESULT</string>
+    <string name="label_timer">00:00</string>
+</resources>

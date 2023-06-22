@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 5/Native Mobile Programming/UTS/PentolSilang_160419038/app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 5/Native Mobile Programming/UTS/PentolSilang_160419038/app/src/main/res/layout/activity_players.xml" value="0.22" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 5/Native Mobile Programming/UTS/PentolSilang_160419038/app/src/main/res/layout/myspinner_item_layout.xml" value="0.1431159420289855" />
+        <entry key="..\:/Sekolah - Kuliah/UBAYA/Semester 5/Native Mobile Programming/UTS/PentolSilang_160419038/app/src/main/res/layout/myspinner_layout.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/activity_history.xml" value="0.4025670945157526" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/activity_history_card.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/activity_players.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/activity_result.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/myspinner_item_layout.xml" value="0.1796875" />
+        <entry key="..\:/Users/Laptop/Desktop/PentolSilang_160419038/app/src/main/res/layout/myspinner_layout.xml" value="0.1796875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
